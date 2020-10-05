@@ -1,2 +1,2 @@
-# jsut-modal
+# just-modal
 just modal \
